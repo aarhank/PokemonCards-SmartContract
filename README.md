@@ -7,6 +7,7 @@
  * Manipulates the price of the cards depending on the supply and demand
  * card_rare is a boolean parameter
  * Also those cards who are rare have higher price than normal cards
+ * gitattributes configured to assume they are F# to have proper syntax highlighting
 
 ### Create storage for your contract, Example -
  ```
