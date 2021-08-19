@@ -1,5 +1,5 @@
 //defining types
-//max_price(int) and card_rare(bool) these will manipulate the price of the card 
+//card_max_price(tez) and card_rare(bool) these will manipulate the price of the card 
 type card_supply = { current_stock : nat ; card_address : address ; card_max_price : tez ; card_rare : bool }
 type card_storage = (nat, card_supply) map
 type return = operation list * card_storage
