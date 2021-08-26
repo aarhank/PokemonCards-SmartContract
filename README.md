@@ -1,6 +1,8 @@
 # A Smart-Contract to buy pokemon cards
 ### Tezos Smart contract submission
 
+### This Smart Contract Is Used For Testing Purposes
+
 ### Smart contract featues
  * Made using cameLIGO
  * A Smart contract use to buy collectible pokemon cards

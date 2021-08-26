@@ -14,6 +14,7 @@ type transfer_destination =
   amount : nat;
 }
  
+defining the transfar type
 type transfer =
 [@layout:comb]
 {
